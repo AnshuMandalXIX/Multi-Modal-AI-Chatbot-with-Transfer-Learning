@@ -1,0 +1,89 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": [
+        "Hi",
+        "Hey",
+        "How are you",
+        "Is anyone there?",
+        "Hello",
+        "Good day"
+      ],
+      "responses": [
+        "Hey :-)",
+        "Hello, thanks for visiting",
+        "Hi there, what can I do for you?",
+        "Hi there, how can I help?"
+      ]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": ["Bye", "See you later", "Goodbye"],
+      "responses": [
+        "See you later, thanks for visiting",
+        "Have a nice day",
+        "Bye! Come back again soon."
+      ]
+    },
+    {
+      "tag": "thanks",
+      "patterns": ["Thanks", "Thank you", "That's helpful", "Thank's a lot!"],
+      "responses": ["Happy to help!", "Any time!", "My pleasure"]
+    },
+    {
+      "tag": "items",
+      "patterns": [
+        "Which department is most popular?",
+        "What is the addmission process?",
+        "What academic background needed for cse?",
+        "What academic background needed for bca?",
+        "What academic background needed for mba?",
+        "What is the eligibility?"
+      ],
+      "responses": [
+        "Check Official Website for more details about Courses",
+        "Visit Official MAKAUT website for eligibility",
+        "Visit for more info: https://makautwb.ac.in/"
+      ]
+    },
+    {
+      "tag": "payments",
+      "patterns": [
+        "Do you accept Mastercard?",
+        "Can I pay with Paypal?",
+        "Are you cash only?"
+      ],
+      "responses": [
+        "We accept VISA, Mastercard and Paypal",
+        "We accept most major credit cards, and UPI",
+        "Contact Admin Finance Department"
+      ]
+    },
+    {
+      "tag": "admission",
+      "patterns": [
+        "Want to take admission?",
+        "How long does admission take?",
+        "How long does admission take?",
+        "When do I get my admission?"
+      ],
+      "responses": [
+        "Admission takes 2-4 days",
+        "Contact Admin Office for further query"
+      ]
+    },
+    {
+      "tag": "funny",
+      "patterns": [
+        "Tell me a joke!",
+        "Tell me something funny!",
+        "Do you know a joke?"
+      ],
+      "responses": [
+        "Why did the hipster burn his mouth? He drank the coffee before it was cool.",
+        "What did the buffalo say when his son left for college? Bison."
+      ]
+    }
+  ]
+}
