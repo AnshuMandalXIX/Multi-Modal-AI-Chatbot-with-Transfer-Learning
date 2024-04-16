@@ -21,3 +21,7 @@ Run in cmd
 python train.py
 
 python chat.py
+
+Snapshot of User Interface:
+
+![Screenshot (24)](https://github.com/AnshuMandalXIX/Multi-Modal-AI-Chatbot-with-Transfer-Learning/assets/127351117/6680fe61-e366-4bbe-a71f-056a80a29dca)
