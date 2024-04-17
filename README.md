@@ -1,4 +1,4 @@
-# AI Chatbot Developing with Flask and JavaScript
+# AI Chatbot Developing with Flask and JavaScript for University ERP
 
 ## Initial Setup:
 
